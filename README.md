@@ -1,5 +1,5 @@
 # twitter-clone-with-django
-
+![twitter clone with django](https://raw.githubusercontent.com/farhadkazemian/twitter-clone-with-django/master/accounts/static/logo.jpg)
 ## Setup:
 ```
 python manage.py makemigrations accounts
